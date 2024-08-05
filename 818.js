@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         第二版解密的
-// @version      8.7.28
+// @name         第三版稳定免登录
+// @version      8.8.05
 // @namespace    http://tampermonkey.net/
 // @description  不需要登录账号直接玩
 // @author       Indulge in unknown Dreams
